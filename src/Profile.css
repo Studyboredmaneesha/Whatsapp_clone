@@ -1,0 +1,50 @@
+
+
+.profile {
+    background-color: teal;
+    display: flex;
+    align-items: flex-start;
+    width: 100vmax;
+    padding: 30px;
+}
+.profile__search{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 30px;
+    width: 5000vmax;
+    background-color: lightgrey;
+}
+.profile__searchs{
+    display: flex;
+    align-items: baseline;
+    place-items: inherit;
+
+    padding: 30px;
+    width: 10vmax;
+    background-color: white;
+    text-align: start;
+   
+    
+}
+.createicon {
+    align-content: flex-end;
+    padding: 5px;
+    width: 100vmax;
+}
+.about {
+    display: flex;
+    align-items: baseline;
+    place-items: inherit;
+
+    padding: 30px;
+    width: 100vmax;
+    background-color: lightgray;
+    text-align: start;
+   
+    
+}
+.profilepic {
+    align-items: center;
+    
+}

@@ -1,0 +1,6 @@
+.side__chat {
+    background-color: teal;
+    display: flex;
+    align-items: flex-start;
+    width: 1000vmax;
+}

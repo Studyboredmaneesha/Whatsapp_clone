@@ -1,0 +1,17 @@
+
+.csearchss {
+    
+    
+    border-bottom: 1px solid lightgrey;
+    align-self: start;
+    width: 90vmax;
+}
+.csearch_head {
+    align-items: flex-start;
+    
+}
+.csearch_heads {
+    align-items: flex-start;
+    padding-left: 10px;
+    
+}
